@@ -1,0 +1,21 @@
+{
+  "name": "json-logic-gen",
+  "version": "0.1.0",
+  "description": "json-logic generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js",
+    "istanbul": "istanbul cover _mocha test/test.js"
+  },
+  "keywords": [
+    "json",
+    "jsonlogic"
+  ],
+  "author": "lubezhang@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.0"
+  }
+}
