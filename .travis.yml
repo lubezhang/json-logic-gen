@@ -3,7 +3,7 @@ language: node_js
 node_js:
     - “4.x”
     - "5.x"
-    _ "6.x"
+    - "6.x"
 branches:
   only:
   - master
