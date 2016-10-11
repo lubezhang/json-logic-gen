@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lubezhang/json-logic-gen.svg?branch=master)](https://travis-ci.org/lubezhang/json-logic-gen)
+
 # json-logic-gen
 生成[json logic](http://jsonlogic.com/)格式的规则字符串。 
 
