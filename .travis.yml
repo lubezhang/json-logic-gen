@@ -1,9 +1,7 @@
 sudo: false
 language: node_js
 node_js:
-    - “4.x”
-    - "5.x"
-    - "6.x"
+    - “4.x.x”
 branches:
   only:
   - master
